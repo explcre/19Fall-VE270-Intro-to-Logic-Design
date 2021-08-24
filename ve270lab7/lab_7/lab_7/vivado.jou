@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Mon Dec  2 14:16:56 2019
+# Process ID: 27208
+# Current directory: C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27336 C:\Users\ASUS\Documents\WeChat Files\xpc_1025\FileStorage\File\2019-12\lab_7\lab_7\lab_7.xpr
+# Log file: C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7/vivado.log
+# Journal file: C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7/lab_7.xpr}
+update_compile_order -fileset sources_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7/lab_7.runs/impl_1/lab5.bit} [get_hw_devices xc7a35t_0]
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0]
+set_property PROGRAM.FILE {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-12/lab_7/lab_7/lab_7.runs/impl_1/lab5.bit} [get_hw_devices xc7a35t_0]
+program_hw_devices [get_hw_devices xc7a35t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0]
+close_hw_manager
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+reset_run synth_1
