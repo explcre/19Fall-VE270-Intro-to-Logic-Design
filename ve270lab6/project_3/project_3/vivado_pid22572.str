@@ -1,0 +1,313 @@
+/*
+
+Xilinx Vivado v2019.2 (64-bit) [Major: 2019, Minor: 2]
+SW Build: 2700185 on Thu Oct 24 18:46:05 MDT 2019
+IP Build: 2699827 on Thu Oct 24 21:16:38 MDT 2019
+
+Process ID (PID): 22572
+License: Customer
+
+Current time: 	Mon Nov 18 19:21:46 CST 2019
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Available disk space: 54 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=15
+
+Java version: 	9.0.4 64-bit
+Java home: 	D:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4
+Java executable location: 	D:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	ASUS
+User home directory: C:/Users/ASUS
+User working directory: C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: D:/Xilinx/Vivado
+HDI_APPROOT: D:/Xilinx/Vivado/2019.2
+RDI_DATADIR: D:/Xilinx/Vivado/2019.2/data
+RDI_BINDIR: D:/Xilinx/Vivado/2019.2/bin
+
+Vivado preferences file location: C:/Users/ASUS/AppData/Roaming/Xilinx/Vivado/2019.2/vivado.xml
+Vivado preferences directory: C:/Users/ASUS/AppData/Roaming/Xilinx/Vivado/2019.2/
+Vivado layouts directory: C:/Users/ASUS/AppData/Roaming/Xilinx/Vivado/2019.2/layouts
+PlanAhead jar file location: 	D:/Xilinx/Vivado/2019.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/vivado.log
+Vivado journal file location: 	C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/vivado.jou
+Engine tmp dir: 	C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/.Xil/Vivado-22572-LAPTOP-5HQLAHIF
+
+Xilinx Environment Variables
+----------------------------
+XILINX: D:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_DSP: D:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_PLANAHEAD: D:/Xilinx/Vivado/2019.2
+XILINX_VIVADO: D:/Xilinx/Vivado/2019.2
+XILINX_VIVADO_HLS: D:/Xilinx/Vivado/2019.2
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 614 MB
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// aN (cr): Older Project Version: addNotify
+// HMemoryUtils.trashcanNow. Engine heap size: 614 MB. GUI used memory: 50 MB. Current time: 11/18/19, 7:21:48 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (aN)
+// Opening Vivado Project: C:\Users\ASUS\Documents\WeChat Files\xpc_1025\FileStorage\File\2019-11\project_3\project_3\project_3.xpr. Version: Vivado v2019.1 
+// bB (cr):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+dismissDialog("Older Project Version"); // aN (cr)
+// Tcl Message: open_project {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/project_3.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3' 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 58 MB (+58731kb) [00:00:55]
+// [Engine Memory]: 697 MB (+579332kb) [00:00:55]
+// [GUI Memory]: 74 MB (+13168kb) [00:00:55]
+// [GUI Memory]: 98 MB (+21788kb) [00:00:56]
+// [Engine Memory]: 743 MB (+11475kb) [00:00:56]
+// [GUI Memory]: 106 MB (+2295kb) [00:00:57]
+// WARNING: HEventQueue.dispatchEvent() is taking  3061 ms.
+// Tcl Message: open_project {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/project_3.xpr} 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3' INFO: [Project 1-313] Project file moved from 'C:/Users/Dell/Desktop/project_3' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [Project 1-230] Project 'project_3.xpr' upgraded for this version of Vivado. INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 751 MB. GUI used memory: 57 MB. Current time: 11/18/19, 7:22:35 PM CST
+// Tcl Message: open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:06 . Memory (MB): peak = 769.086 ; gain = 125.297 
+// Project name: project_3; location: C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bB (cr)
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 10 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, lab_6 (lab_6.v)]", 1); // B (F, cr)
+// Elapsed time: 13 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Program and Debug, Open Hardware Manager]", 21, true); // u (O, cr) - Node
+// Run Command: PAResourceCommand.PACommandNames_OPEN_HARDWARE_MANAGER
+// Tcl Command: 'rdi::info_commands get_hw_probes'
+// Tcl Command: 'load_features labtools'
+// TclEventType: LOAD_FEATURE
+// bB (cr):  Open Hardware Manager : addNotify
+// TclEventType: HW_SESSION_OPEN
+// Tcl Message: open_hw_manager 
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// [GUI Memory]: 119 MB (+8241kb) [00:01:23]
+dismissDialog("Open Hardware Manager"); // bB (cr)
+selectButton(PAResourceOtoP.ProgramDebugTab_OPEN_TARGET, "Open target"); // h (ds, cr)
+selectMenuItem(PAResourceCommand.PACommandNames_AUTO_CONNECT_TARGET, "Auto Connect"); // ai (ao, cr)
+// Run Command: PAResourceCommand.PACommandNames_AUTO_CONNECT_TARGET
+// Tcl Message: connect_hw_server -allow_non_jtag 
+// Tcl Message: INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121 
+// bB (cr):  Auto Connect : addNotify
+// Tcl Message: INFO: [Labtools 27-2222] Launching hw_server... 
+// Tcl Message: INFO: [Labtools 27-2221] Launch Output:  ****** Xilinx hw_server v2019.2   **** Build date : Oct 24 2019 at 19:17:01     ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.   
+// TclEventType: HW_SERVER_UPDATE
+// Tcl Message: INFO: [Labtools 27-3415] Connecting to cs_server url TCP:localhost:3042 
+// Tcl Message: INFO: [Labtools 27-3417] Launching cs_server... 
+// TclEventType: HW_SERVER_UPDATE
+// Tcl Message: INFO: [Labtools 27-2221] Launch Output:   ****** Xilinx cs_server v2019.2.0   **** Build date : Oct 25 2019-09:33:05     ** Copyright 2017-2019 Xilinx, Inc. All Rights Reserved.    
+// Tcl Message: connect_hw_server: Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 787.914 ; gain = 17.617 
+// TclEventType: HW_TARGET_CHANGE
+// TclEventType: HW_TARGET_CLOSE
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_SYSMON_ADD
+// TclEventType: HW_TARGET_UPDATE
+// WARNING: HEventQueue.dispatchEvent() is taking  4338 ms.
+// Tcl Message: open_hw_target 
+// Tcl Message: INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/210183A37ECEA 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,981 MB. GUI used memory: 58 MB. Current time: 11/18/19, 7:23:22 PM CST
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: set_property PROGRAM.FILE {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/project_3.runs/impl_1/lab_6.bit} [get_hw_devices xc7a35t_0] 
+// Tcl Message: current_hw_device [get_hw_devices xc7a35t_0] 
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_SYSMON_CHANGE
+// TclEventType: HW_DEVICE_UPDATE
+// [Engine Memory]: 2,003 MB (+1282028kb) [00:01:44]
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0] 
+// Tcl Message: INFO: [Labtools 27-1435] Device xc7a35t (JTAG device index = 0) is not programmed (DONE status = 0). 
+// Elapsed time: 14 seconds
+dismissDialog("Auto Connect"); // bB (cr)
+selectButton(PAResourceOtoP.ProgramDebugTab_PROGRAM_DEVICE, "Program device"); // h (ds, cr)
+// Run Command: PAResourceCommand.PACommandNames_PROGRAM_FPGA
+// bC (cr): Program Device: addNotify
+selectButton(PAResourceOtoP.ProgramFpgaDialog_PROGRAM, "Program"); // a (bC)
+// bB (cr):  Program Device : addNotify
+// TclEventType: HW_DEVICE_CHANGE
+dismissDialog("Program Device"); // bC (cr)
+// Tcl Message: set_property PROBES.FILE {} [get_hw_devices xc7a35t_0] 
+// Tcl Message: set_property FULL_PROBES.FILE {} [get_hw_devices xc7a35t_0] 
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: set_property PROGRAM.FILE {C:/Users/ASUS/Documents/WeChat Files/xpc_1025/FileStorage/File/2019-11/project_3/project_3/project_3.runs/impl_1/lab_6.bit} [get_hw_devices xc7a35t_0] 
+// Tcl Message: program_hw_devices [get_hw_devices xc7a35t_0] 
+// TclEventType: HW_DEVICE_CHANGE
+// Tcl Message: INFO: [Labtools 27-3164] End of startup status: HIGH 
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_SYSMON_CHANGE
+// TclEventType: HW_DEVICE_UPDATE
+// TclEventType: HW_DEVICE_CHANGE
+// TclEventType: HW_DEVICE_PROBES_CHANGE
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: HW_DEVICE_PROBES_CHANGE
+// Tcl Message: refresh_hw_device [lindex [get_hw_devices xc7a35t_0] 0] 
+// Tcl Message: INFO: [Labtools 27-1434] Device xc7a35t (JTAG device index = 0) is programmed with a design that has no supported debug core(s) in it. 
+// 'I' command handler elapsed time: 3 seconds
+dismissDialog("Program Device"); // bB (cr)
+// Elapsed time: 678 seconds
+selectButton(PAResourceTtoZ.TaskBanner_CLOSE, (String) null); // k (aA, cr)
+closeTask("Program and Debug", "Hardware Manager", "DesignTask.PROGRAM_DEBUG");
+// A (cr): Confirm Close: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (A)
+// bB (cr):  Close Hardware Manager : addNotify
+// TclEventType: HW_OBJECT_DELETE
+dismissDialog("Confirm Close"); // A (cr)
+// TclEventType: HW_SERVER_CLOSE
+// TclEventType: HW_SYSMON_DELETE
+// TclEventType: HW_TARGET_CLOSE
+// TclEventType: HW_TARGET_UPDATE
+// TclEventType: DEBUG_PROBE_DELETE
+// TclEventType: HW_SESSION_CLOSE
+// Tcl Message: close_hw_manager 
+dismissDialog("Close Hardware Manager"); // bB (cr)
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 59 MB. Current time: 11/18/19, 7:53:24 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 54 MB. Current time: 11/18/19, 8:23:24 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 8:53:24 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 9:23:24 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 9:53:25 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 10:23:25 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 10:53:25 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1735 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  616519 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/18/19, 11:23:27 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  947425 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 12:04:11 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 12:34:12 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 1:04:12 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 1:34:12 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 54 MB. Current time: 11/19/19, 4:37:25 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 10:10:37 AM CST
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 19980470 ms. Increasing delay to 59941410 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 1329 ms. Increasing delay to 3000 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 54 MB. Current time: 11/19/19, 10:40:37 AM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  928733 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 11:10:37 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 11:40:38 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 12:10:38 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  4198884 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 1:35:29 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 2:15:26 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 2:45:27 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/19/19, 3:15:27 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  805544 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1017 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 46 MB. Current time: 11/19/19, 3:54:09 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 4:24:09 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 4:54:09 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 5:24:09 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  2579655 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1150 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 46 MB. Current time: 11/19/19, 6:20:00 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 6:49:59 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 7:19:59 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 7:49:59 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1991985 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 8:40:33 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1200 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/19/19, 9:10:34 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  10798982 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 12:26:39 AM CST
+// WARNING: HTimer (ActiveMsgMonitor Process Messages Timer) is taking 2878926ms to process. Increasing delay to 2000 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 1:14:46 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 1:49:30 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 2:19:30 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 2:49:30 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 3:19:30 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 3:49:31 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 4:19:31 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 4:49:31 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 5:19:31 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 5:49:32 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 6:19:32 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 6:49:32 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 7:19:33 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 7:49:33 AM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  6506099 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 9:57:09 AM CST
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 6507038 ms. Increasing delay to 4000 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/20/19, 10:27:10 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/20/19, 10:57:10 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/20/19, 11:27:10 AM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 54 MB. Current time: 11/20/19, 11:57:10 AM CST
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 18 ms. Decreasing delay to 2018 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1554103 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 53 MB. Current time: 11/20/19, 12:50:57 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  3045509 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1017 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 46 MB. Current time: 11/20/19, 2:01:10 PM CST
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 2108134 ms. Increasing delay to 6324402 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 2:58:30 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 3:28:30 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 3:59:56 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  3212 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 4:29:57 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  934563 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 5:03:28 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  2099 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 22 ms. Decreasing delay to 2022 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 5:33:29 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1010 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  2748919 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 6:25:28 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  1249 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 6:55:29 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 7:25:29 PM CST
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 7:55:29 PM CST
+// WARNING: HEventQueue.dispatchEvent() is taking  9824372 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 2,017 MB. GUI used memory: 45 MB. Current time: 11/20/19, 10:47:30 PM CST
